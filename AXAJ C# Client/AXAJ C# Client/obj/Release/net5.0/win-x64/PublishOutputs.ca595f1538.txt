@@ -1,0 +1,11 @@
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\AXAJ C# Client.pdb
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\clrcompression.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\clrjit.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\coreclr.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\mscordaccore.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\comerr64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\gssapi64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\k5sprt64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\krb5_64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\krbcc64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Release\net5.0\publish\CoreApp\AXAJ C# Client.exe

@@ -1,0 +1,48 @@
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.exe
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.deps.json
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.runtimeconfig.json
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.runtimeconfig.dev.json
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\AXAJ C# Client.pdb
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.csproj.AssemblyReference.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.AssemblyInfoInputs.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.AssemblyInfo.cs
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.csproj.CoreCompileInputs.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\refint\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.pdb
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# Client.genruntimeconfig.cache
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\ref\AXAJ C# Client.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Management.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Despa\source\repos\AXAJ C# Client\AXAJ C# Client\obj\Debug\net5.0\AXAJ C# .F6A88A45.Up2Date

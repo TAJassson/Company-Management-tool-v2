@@ -1,0 +1,47 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}	
+
+body {
+	background-color: "LightGray";
+	background-image: url(background6.jpg);
+    background-blend-mode:color-dodge;   
+}
+
+/*main text content*/
+div.content {
+	margin:auto;
+	word-wrap: break-word;
+	width: 70%;
+	text-align: center;
+	font-size: 25px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif	
+}
+
+/*use for sentence above the clickHere image*/
+div.form {
+	font-size: 25px;
+	text-align: center;
+}
+
+
+/*CSS for clickHere image*/
+div.clickHere {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	overflow: hidden;
+	background-color: antiquewhite;
+	text-decoration: none;
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
+

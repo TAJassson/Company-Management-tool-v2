@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Despa\\source\\repos\\AXAJ C# Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7F03F6-6FFE-4D38-A362-00E3E91C6A26}|AXAJ C# Client\\AXAJ C# Client.csproj|c:\\users\\despa\\source\\repos\\axaj c# client\\axaj c# client\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA7F03F6-6FFE-4D38-A362-00E3E91C6A26}|AXAJ C# Client\\AXAJ C# Client.csproj|solutionrelative:axaj c# client\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7F03F6-6FFE-4D38-A362-00E3E91C6A26}|AXAJ C# Client\\AXAJ C# Client.csproj|c:\\users\\despa\\source\\repos\\axaj c# client\\axaj c# client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7F03F6-6FFE-4D38-A362-00E3E91C6A26}|AXAJ C# Client\\AXAJ C# Client.csproj|solutionrelative:axaj c# client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\Despa\\source\\repos\\AXAJ C# Client\\AXAJ C# Client\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "AXAJ C# Client\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\Despa\\source\\repos\\AXAJ C# Client\\AXAJ C# Client\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "AXAJ C# Client\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-26T01:48:04.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Despa\\source\\repos\\AXAJ C# Client\\AXAJ C# Client\\Program.cs",
+              "RelativeDocumentMoniker": "AXAJ C# Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Despa\\source\\repos\\AXAJ C# Client\\AXAJ C# Client\\Program.cs",
+              "RelativeToolTip": "AXAJ C# Client\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwLIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T14:28:44.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
