@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AXAJ C# Client"
+    "\\AXAJ C# Client",
+    "\\SignalRChat"
   ],
+  "SelectedNode": "\\SignalRChat\\SignalRChat.sln",
   "PreviewInSolutionExplorer": false
 }
